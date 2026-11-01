@@ -1,22 +1,26 @@
-## 👋 Hi, I'm Lucas Bueno, software developer since 2015 🤘
-<div>
-  <a href="https://github.com/ferbdev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ferbdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferbdev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/lucas-bueno-78012b180" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucas_bueno3@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
-  
-</div>
+# Lucas Bueno
+
+Software developer since 2015, working mostly with C# and .NET on the backend and TypeScript and React on the web. Lately I've been building small, focused tools for Windows.
+
+## Projects
+
+- **[Pulso](https://github.com/ferbdev/pulso)**: free, open source Windows widget that shows CPU, GPU, RAM and disk temperature and usage in real time. Built with C# and .NET. [Website](https://ferbdev.github.io/pulso/)
+- **[GitHub Retrospectiva](https://github-retro-statistics.vercel.app)**: your last 12 months on GitHub, told as streaming-style stories. Built with TypeScript.
+- **[Google Drive recovery script](https://github.com/ferbdev/GAppsScriptRecoveryInfectedLockbit)**: recursive Google Apps Script that finds `.lockbit` files in a folder and removes their encrypted revision to recover the originals.
+
+## Stack
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="36">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET" height="36">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="36">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="36">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/react/react-original.svg" alt="React" title="React" height="36">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="36">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="36">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.18.0/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle" height="36">
+</p>
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/lucas-bueno-78012b180) · [Email](mailto:lucas_bueno3@hotmail.com)
