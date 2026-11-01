@@ -4,6 +4,7 @@ Software developer since 2015, working mostly with C# and .NET on the backend an
 
 ## Projects
 
+- **Penumbra**: Windows 11 widget that dims or turns off secondary monitors while you play and restores their brightness when the game closes. Built with C# and .NET.
 - **[Pulso](https://github.com/ferbdev/pulso)**: free, open source Windows widget that shows CPU, GPU, RAM and disk temperature and usage in real time. Built with C# and .NET. [Website](https://ferbdev.github.io/pulso/)
 - **[GitHub Retrospectiva](https://github-retro-statistics.vercel.app)**: your last 12 months on GitHub, told as streaming-style stories. Built with TypeScript.
 - **[Google Drive recovery script](https://github.com/ferbdev/GAppsScriptRecoveryInfectedLockbit)**: recursive Google Apps Script that finds `.lockbit` files in a folder and removes their encrypted revision to recover the originals.
